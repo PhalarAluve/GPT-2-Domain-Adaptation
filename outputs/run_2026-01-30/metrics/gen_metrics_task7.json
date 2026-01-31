@@ -1,0 +1,16 @@
+{
+  "baseline": {
+    "distinct_2": 0.9415422885572139,
+    "distinct_3": 0.9954013377926422,
+    "rep_4gram": 0.0008431703204047217,
+    "avg_len_tokens": 121.6,
+    "std_len_tokens": 16.517869111964778
+  },
+  "fullft": {
+    "distinct_2": 0.9315235008103727,
+    "distinct_3": 0.9959150326797386,
+    "rep_4gram": 0.0,
+    "avg_len_tokens": 124.4,
+    "std_len_tokens": 8.974408058473829
+  }
+}

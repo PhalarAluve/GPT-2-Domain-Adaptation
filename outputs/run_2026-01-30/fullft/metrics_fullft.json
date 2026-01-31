@@ -1,0 +1,8 @@
+{
+  "train_blocks": 687,
+  "val_blocks": 85,
+  "test_blocks": 92,
+  "block_size": 128,
+  "test_loss": 3.3242108821868896,
+  "test_perplexity": 27.777070610692316
+}

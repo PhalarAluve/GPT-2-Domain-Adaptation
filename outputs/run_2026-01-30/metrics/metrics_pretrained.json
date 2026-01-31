@@ -1,0 +1,6 @@
+{
+  "test_loss": 4.144853591918945,
+  "test_ppl": 63.10838164828206,
+  "model": "gpt2-pretrained",
+  "dataset": "lm[test]"
+}
