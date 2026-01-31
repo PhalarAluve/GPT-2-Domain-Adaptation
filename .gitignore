@@ -1,9 +1,4 @@
-outputs/**/checkpoint-*/
-outputs/**/runs/
-outputs/**/*.bin
-outputs/**/*.pt
-outputs/**/*.safetensors
-outputs/**/pytorch_model*
-outputs/**/optimizer.pt
-outputs/**/scheduler.pt
-EOF
+**/pytorch_model.bin
+**/optimizer.pt
+**/rng_state.pth
+**/training_args.bin
